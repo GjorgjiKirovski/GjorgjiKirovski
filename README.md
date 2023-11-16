@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Gjorgji's GitHub stats](https://github-readme-stats-eta-eight-63.vercel.app/api?username=GjorgjiKirovski)
+![Gjorgji's GitHub stats](https://github-readme-stats-eta-eight-63.vercel.app/api?username=GjorgjiKirovski&show_icons=true&theme=transparent))
 
 <!--
 **GjorgjiKirovski/GjorgjiKirovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
