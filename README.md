@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Gjorgji's GitHub stats](https://github-readme-stats-eta-eight-63.vercel.app/api?username=GjorgjiKirovski&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Gjorgji's GitHub stats](https://github-readme-stats-eta-eight-63.vercel.app/api?username=GjorgjiKirovski&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars)
 
 <!--
 **GjorgjiKirovski/GjorgjiKirovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
